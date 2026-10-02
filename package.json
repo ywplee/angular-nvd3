@@ -26,7 +26,7 @@
         "name": "Konstantin Skipor"
     },
     "devDependencies": {
-        "grunt": "^0.4.4",
+        "grunt": "^1.6.3",
         "grunt-cli": "^0.1.13",
         "grunt-contrib-concat": "^0.4.0",
         "grunt-contrib-jshint": "^0.10.0",
